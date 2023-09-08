@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1694131262 source:c:\assignments\librarymanagementsystem\main.cpp
+	<iostream>
+	"books.h"
+	<vector>
+	<fstream>
+
+1693995760 c:\assignments\librarymanagementsystem\books.h
+	<iostream>
+
